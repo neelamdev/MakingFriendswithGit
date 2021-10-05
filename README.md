@@ -1,3 +1,2 @@
 # MakingFriendswithGit
-
-## Here we are !!!
+#### We r trying to cd trigger merge conflicts.
